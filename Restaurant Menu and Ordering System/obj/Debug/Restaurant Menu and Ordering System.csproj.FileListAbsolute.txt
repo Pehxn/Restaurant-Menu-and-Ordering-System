@@ -1,0 +1,19 @@
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\bin\Debug\Restaurant Menu and Ordering System.exe.config
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\bin\Debug\Restaurant Menu and Ordering System.exe
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\bin\Debug\Restaurant Menu and Ordering System.pdb
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.Start.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.Properties.Resources.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant Menu and Ordering System.csproj.GenerateResource.cache
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant Menu and Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant Menu and Ordering System.exe
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant Menu and Ordering System.pdb
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.Menu.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.foods.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.Drinks.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant Menu and Ordering System.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.PlaceOrders2.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.Contact.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.AdminLogin.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.AdminForm.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.AdminRegistration.resources
+C:\Users\win10\Desktop\RAD Assignment\Restaurant Menu and Ordering System\obj\Debug\Restaurant_Menu_and_Ordering_System.Admin3.resources
